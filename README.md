@@ -1,0 +1,2 @@
+# RedCoreOS
+Welcome lol!!
